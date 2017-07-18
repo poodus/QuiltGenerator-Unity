@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 90edd4aa2577d4888b7b5f0b38b7f9b1
+timeCreated: 1499630321
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Attractive
+  fontNames:
+  - Attractive
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 46279c7fd6fdc426da609bcf1b89eaf2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
